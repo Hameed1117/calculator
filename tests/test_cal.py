@@ -12,6 +12,6 @@ def test_mul():
     """test multiplication functionality"""
     assert mul(7,5)==35
 
-def tes_div():
+def test_div():
     """test division functionality"""
     assert div(4,2)==2
