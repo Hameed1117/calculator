@@ -1,5 +1,5 @@
 """Contains Tests for different Calc Functions"""
-from cal import add, div, mul, sub
+from apps.cal import add, div, mul, sub
 def test_add():
     """test addition functionality"""
     assert add(2,2)==4
